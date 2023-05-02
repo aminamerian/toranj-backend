@@ -1,0 +1,3 @@
+SECRET_KEY=django-insecure-ce7$nk0=t3@fxxy=z^i_k^q_=6czmf2d=khhe53if81)f+mx5b
+DEBUG=1
+ALLOWED_HOSTS=*
